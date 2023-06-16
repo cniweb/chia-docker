@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:kinetic
 
 EXPOSE 8555
 EXPOSE 8444
