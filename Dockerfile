@@ -1,4 +1,4 @@
-FROM ubuntu:24.04
+FROM ubuntu:24.10
 
 EXPOSE 8555
 EXPOSE 8444
